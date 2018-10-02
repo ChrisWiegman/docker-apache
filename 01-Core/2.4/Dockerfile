@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER cwiegman@ufl.edu
+MAINTAINER info@chriswiegman.com
 
 EXPOSE 80 443
 
