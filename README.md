@@ -1,10 +1,5 @@
 # Docker Apache Images
 
-Apache images built specifically for Web Services development.
+Apache images built specifically for WordPress and PHP development. 
 
-
-### Avoiding Certificate Errors
-
-In order to avoid SSL certificate errors when working with GIT LFS use the following after downloading the repo:
-
-```git config http.sslVerify false```
+This project is a fork of a project I originally built for UF Health.
